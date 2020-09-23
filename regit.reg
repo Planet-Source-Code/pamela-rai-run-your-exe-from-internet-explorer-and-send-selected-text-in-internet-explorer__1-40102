@@ -1,0 +1,11 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\MenuExt\Send selected text to my program]
+@="javascript:var ws = new ActiveXObject (\"WScript.Shell\");ws.run(\"c:\\\\windows\\\\desktop\\\\project1.exe\" + ' ' + external.menuArguments.document.selection.createRange().text);"
+"Contexts"=dword:00000030
+
+
+
+
+
+

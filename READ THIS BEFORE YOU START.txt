@@ -1,0 +1,10 @@
+1. Create the project exe
+2.Modify the path in regit.reg to your exe
+3.You will need 4 backslashes between each folder e.g:
+c:\windows\desktop\program.exe will be c:\\\\windows\\\\desktop\\\\program.exe
+4.Save regit.reg
+5.Doubleclick regit.reg to add the information to your registry.
+6.Close all explorer windows
+7.The next time you run internet explorer, it will work.
+
+Only works with Internet Explorer
